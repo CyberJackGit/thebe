@@ -14,7 +14,6 @@ define [
   'notebook/js/kernelselector'
   'services/kernels/kernel'
   'codemirror/lib/codemirror'
-  'terminal/js/terminado'
   'components/term.js/src/term'
   'codemirror/mode/ruby/ruby'
   'codemirror/mode/css/css'
@@ -34,7 +33,7 @@ define [
   'nbextensions/widgets/notebook/js/extension'
 
   'custom/custom'
-], (IPython, $, promise, doTimeout, notebook, default_css, contents, configmod, utils, page, events, actions, kernelselector, kernel, CodeMirror, terminado, Terminal, custom) ->
+], (IPython, $, promise, doTimeout, notebook, default_css, contents, configmod, utils, page, events, actions, kernelselector, kernel, CodeMirror, custom) ->
 
   # promise.polyfill()
 
@@ -56,7 +55,7 @@ define [
       # Automatically load other necessary css (jquery ui)
       load_css: true
       # Automatically load mathjax js
-      load_mathjax: true
+      load_mathjax: false
       # Default keyboard shortcut for focusing next cell, shift+ this keycode, default (32) is spacebar
       # Set to false to disable
       next_cell_shortcut: 32
@@ -116,7 +115,7 @@ define [
 
       if @options.error_addendum is false then @ui['error_addendum']  = ""
       else if @options.error_addendum is true
-        @ui['error_addendum']  = "<button data-action='run-above'>Run All Above</button> <div class='thebe-message'>It looks like there was an error. You might need to run the code examples above for this one to work.</div>"
+        @ui['error_addendum']  = "<button class='btn btn-toolbar btn-danger btn-embossed' data-action='run-above'>Run All Above</button><p class='small'>It looks like there was an error.</p>"
       else @ui['error_addendum'] = @options.error_addendum
 
     # See default_options above
@@ -267,7 +266,7 @@ define [
           cell.code_mirror.setOption("readOnly", true) # or "nocursor", though that prevents focus
         # Add run button, wrap it all up, and replace the pre's
         wrap = $("<div class='thebe_wrap'></div>")
-        controls = $("<div class='thebe_controls' data-cell-id='#{i}'>#{@controls_html()}</div>")
+        controls = $("<div class='thebe_controls' data-cell-id='#{i}' style='padding-top: 10px; margin-left: 5px'>#{@controls_html()}</div>")
         wrap.append cell.element.children()
         $(el).replaceWith(cell.element.empty().append(wrap))
         # cell.refresh() # not needed currently, but useful
@@ -408,9 +407,9 @@ define [
     # Note: not @state
     controls_html: (state=@idle_state, html=false)=>
       if not html then html = @ui[state]
-      result = "<button data-action='run' data-state='#{state}'>#{html}</button>"
+      result = "<button class='btn btn-toolbar btn-primary btn-embossed' data-action='run' data-state='#{state}' style='margin-right: 15px'>#{html}</button>"
       if @options.add_interrupt_button and state is @busy_state # and state is running??
-        result+="<button data-action='interrupt'>Interrupt</button>"
+        result+="<button class='btn btn-toolbar btn-primary btn-embossed' data-action='interrupt'>Interrupt</button>"
       if state is @user_error
         result+=@ui["error_addendum"]
       result
@@ -420,7 +419,7 @@ define [
 
     # Basically a template
     kernel_controls_html: ->
-      "<button data-action='run-above'>Run All</button> <button data-action='interrupt'>Interrupt</button> <button data-action='restart'>Restart</button>"
+      "<button class='btn btn-toolbar btn-primary btn-embossed' data-action='run-above'>Run All</button> <button class='btn btn-toolbar btn-primary btn-embossed' data-action='interrupt'>Interrupt</button> <button class='btn btn-toolbar btn-primary btn-embossed' data-action='restart'>Restart</button>"
 
     # EVENTS
     # ----------------------

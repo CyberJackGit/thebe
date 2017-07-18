@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec1af0a1-a572-4f9a-a0f5-ac7faf63c6b2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/terminal/css/override.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/terminal/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/terminal/js/terminado.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/terminal/less/terminal.less" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/main-built.js" afterPath="$PROJECT_DIR$/static/main-built.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/main.coffee" afterPath="$PROJECT_DIR$/static/main.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/main.js" afterPath="$PROJECT_DIR$/static/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/main.js.map" afterPath="$PROJECT_DIR$/static/main.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/thebe/default_css.js" afterPath="$PROJECT_DIR$/static/thebe/default_css.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.coffee" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/main.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="409" column="113" lean-forward="false" selection-start-line="409" selection-start-column="113" selection-end-line="409" selection-end-column="113" />
+              <folding>
+                <marker date="1500376645000" expanded="true" signature="10661:10678" ph="..." />
+                <marker date="1500376645000" expanded="true" signature="10661:10696" ph="..." />
+                <marker date="1500376645000" expanded="true" signature="16376:16394" ph="..." />
+                <marker date="1500376645000" expanded="true" signature="24830:24861" ph="..." />
+                <marker date="1500376645000" expanded="true" signature="24895:24919" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notebook.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/notebook/js/notebook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="2328" column="27" lean-forward="false" selection-start-line="2328" selection-start-column="23" selection-end-line="2328" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default_css.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/thebe/default_css.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1625" lean-forward="false" selection-start-line="4" selection-start-column="1625" selection-end-line="4" selection-end-column="1625" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/thebe/site.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/thebe/style.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="239" column="20" lean-forward="false" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="20" />
+              <folding>
+                <marker date="1500367427000" expanded="true" signature="718:784" ph="{...}" />
+                <marker date="1500367427000" expanded="true" signature="5314:5470" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="386" column="26" lean-forward="false" selection-start-line="386" selection-start-column="26" selection-end-line="386" selection-end-column="26" />
+              <folding>
+                <marker date="1500376655000" expanded="true" signature="1339:30264" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="1376:30085" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="2720:3712" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="3643:3712" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="17593:17619" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="17679:19806" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="17761:17794" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="17824:17882" ph="{&quot;cell_id&quot;: cell_id...}" />
+                <marker date="1500376655000" expanded="true" signature="17964:18092" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18190:18302" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18378:18403" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18442:19260" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18555:19243" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18585:19232" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18744:19220" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="18915:19175" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19001:19048" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19266:19800" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19368:19792" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19526:19755" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19603:19642" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19861:20276" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19910:19950" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="19956:19994" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20078:20270" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20330:21365" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20441:21350" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20470:21341" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20661:20714" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20741:21331" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="20766:20807" ph="..." />
+                <marker date="1500376655000" expanded="true" signature="20867:21050" ph="..." />
+                <marker date="1500376655000" expanded="true" signature="20891:20949" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="21080:21127" ph="..." />
+                <marker date="1500376655000" expanded="true" signature="21155:21319" ph="..." />
+                <marker date="1500376655000" expanded="true" signature="21255:21319" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="21416:22144" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="21765:22129" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="21793:22120" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22004:22087" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22195:23844" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22287:22448" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22326:22440" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22383:22428" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22475:22657" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22699:22739" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22761:22848" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22873:22927" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22889:22919" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="22952:23056" ph="{&quot;ws_url&quot;: ''...}" />
+                <marker date="1500376655000" expanded="true" signature="23202:23444" ph="{&quot;keyboard_manager&quot;: keyboard_manager...}" />
+                <marker date="1500376655000" expanded="true" signature="23502:23545" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="23895:24182" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="23957:24167" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="23986:24158" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24013:24077" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24083:24148" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24241:24867" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24400:24552" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24429:24543" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24468:24533" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24599:24827" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24628:24818" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="24927:26522" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="25384:25456" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="25490:25566" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="25608:26040" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="25636:26031" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="25960:26020" ph="{&quot;rows&quot;: rows...}" />
+                <marker date="1500376655000" expanded="true" signature="26205:26508" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="26233:26499" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="26579:26989" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="26623:26654" ph="..." />
+                <marker date="1500376655000" expanded="true" signature="26688:26712" ph="..." />
+                <marker date="1500376655000" expanded="true" signature="27041:28343" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="27135:27403" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="27439:27518" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="27552:27926" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="27692:27915" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="27733:27903" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="27766:27872" ph="{&quot;rel&quot;: 'stylesheet'...}" />
+                <marker date="1500376655000" expanded="true" signature="27979:28328" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="28042:28319" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="28204:28309" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="28397:28870" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="28575:28821" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="28928:29267" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29151:29179" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29185:29261" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29317:29633" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29346:29380" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29403:29568" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29427:29471" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29477:29560" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29587:29627" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29685:30060" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29711:29739" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29845:29891" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="29929:29983" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="30129:30227" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="30182:30223" ph="{...}" />
+                <marker date="1500376655000" expanded="true" signature="30239:30261" ph="{&quot;Thebe&quot;: Thebe...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ipython.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/style/ipython.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/style/style.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/style/style.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="9892" column="10" lean-forward="false" selection-start-line="9892" selection-start-column="0" selection-end-line="9892" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>style=</find>
+      <find>style='</find>
+      <find>15px</find>
+      <find>controls</find>
+      <find>thebe_controls</find>
+      <find>thebe_controlsq</find>
+      <find>scro</find>
+      <find>overflo</find>
+      <find>overflow-y</find>
+      <find>auto</find>
+      <find>.CodeMirror{height</find>
+      <find>200px</find>
+      <find>400</find>
+      <find>#</find>
+      <find>&lt;button</find>
+      <find>data-act</find>
+      <find>style='margin-right: 10px'</find>
+      <find>border</find>
+      <find>gutter</find>
+      <find>CodeMirror-line</find>
+      <find>CodeMirror-lines</find>
+      <find>761</find>
+      <find>output pre</find>
+      <find>CodeMirror</find>
+      <find>&lt;bitt</find>
+      <find>&lt;but</find>
+      <find>it lo</find>
+      <find>contro</find>
+      <find>controls =</find>
+      <find>&lt;button</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/components/bootstrap/less/scaffolding.less" />
+        <option value="$PROJECT_DIR$/static/base/less/variables.less" />
+        <option value="$PROJECT_DIR$/static/thebe/site.css" />
+        <option value="$PROJECT_DIR$/static/notebook/less/codecell.less" />
+        <option value="$PROJECT_DIR$/static/notebook/js/outputarea.js" />
+        <option value="$PROJECT_DIR$/static/notebook/less/outputarea.less" />
+        <option value="$PROJECT_DIR$/static/style/ipython.min.css" />
+        <option value="$PROJECT_DIR$/static/style/style.min.css" />
+        <option value="$PROJECT_DIR$/static/thebe/style.less" />
+        <option value="$PROJECT_DIR$/static/thebe/default_css.js" />
+        <option value="$PROJECT_DIR$/static/main.coffee" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="22" />
+    <option name="width" value="1676" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main.coffee" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style.less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ipython.less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap-tour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thebe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thebe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thebe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thebe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thebe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="thebe" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thebe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thebe" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec1af0a1-a572-4f9a-a0f5-ac7faf63c6b2" name="Default" comment="" />
+      <created>1500245258383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500245258383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="22" width="1676" height="1028" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21479714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/auth/less/login.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/base/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../company-to-domain/domain_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500308380000" expanded="true" signature="2787:2889" ph="select a.sea... serp" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/bootstrap/less/scaffolding.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="33" />
+          <folding>
+            <marker date="1500327020000" expanded="true" signature="685:755" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="770:958" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="841:921" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="933:956" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1119:1135" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1153:1182" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1270:1294" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1328:1370" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1479:1767" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1799:1850" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="1877:2009" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="2124:2264" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="2498:2640" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="2522:2638" ph="{...}" />
+            <marker date="1500327020000" expanded="true" signature="2950:2972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/widgets/less/widgets.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-427">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/base/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="1574" column="3" lean-forward="false" selection-start-line="1574" selection-start-column="3" selection-end-line="1574" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/thebe/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1500330082000" expanded="true" signature="91:162" ph="{...}" />
+            <marker date="1500330082000" expanded="true" signature="183:306" ph="{...}" />
+            <marker date="1500330082000" expanded="true" signature="348:392" ph="{...}" />
+            <marker date="1500330082000" expanded="true" signature="400:421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/base/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <marker date="1500330082000" expanded="true" signature="815:997" ph="{...}" />
+            <marker date="1500330082000" expanded="true" signature="1035:1063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/notebook/less/codecell.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/notebook/js/outputarea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="434" column="46" lean-forward="false" selection-start-line="434" selection-start-column="46" selection-end-line="434" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/notebook/less/outputarea.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/ipython.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/style.min.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="0" column="4716" lean-forward="false" selection-start-line="0" selection-start-column="4716" selection-end-line="0" selection-end-column="4716" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="9892" column="10" lean-forward="false" selection-start-line="9892" selection-start-column="0" selection-end-line="9892" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/ipython.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="386" column="26" lean-forward="false" selection-start-line="386" selection-start-column="26" selection-end-line="386" selection-end-column="26" />
+          <folding>
+            <marker date="1500376655000" expanded="true" signature="1339:30264" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="1376:30085" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="2720:3712" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="3643:3712" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="17593:17619" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="17679:19806" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="17761:17794" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="17824:17882" ph="{&quot;cell_id&quot;: cell_id...}" />
+            <marker date="1500376655000" expanded="true" signature="17964:18092" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18190:18302" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18378:18403" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18442:19260" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18555:19243" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18585:19232" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18744:19220" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="18915:19175" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19001:19048" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19266:19800" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19368:19792" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19526:19755" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19603:19642" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19861:20276" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19910:19950" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="19956:19994" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20078:20270" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20330:21365" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20441:21350" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20470:21341" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20661:20714" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20741:21331" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="20766:20807" ph="..." />
+            <marker date="1500376655000" expanded="true" signature="20867:21050" ph="..." />
+            <marker date="1500376655000" expanded="true" signature="20891:20949" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="21080:21127" ph="..." />
+            <marker date="1500376655000" expanded="true" signature="21155:21319" ph="..." />
+            <marker date="1500376655000" expanded="true" signature="21255:21319" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="21416:22144" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="21765:22129" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="21793:22120" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22004:22087" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22195:23844" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22287:22448" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22326:22440" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22383:22428" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22475:22657" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22699:22739" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22761:22848" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22873:22927" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22889:22919" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="22952:23056" ph="{&quot;ws_url&quot;: ''...}" />
+            <marker date="1500376655000" expanded="true" signature="23202:23444" ph="{&quot;keyboard_manager&quot;: keyboard_manager...}" />
+            <marker date="1500376655000" expanded="true" signature="23502:23545" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="23895:24182" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="23957:24167" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="23986:24158" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24013:24077" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24083:24148" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24241:24867" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24400:24552" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24429:24543" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24468:24533" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24599:24827" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24628:24818" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="24927:26522" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="25384:25456" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="25490:25566" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="25608:26040" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="25636:26031" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="25960:26020" ph="{&quot;rows&quot;: rows...}" />
+            <marker date="1500376655000" expanded="true" signature="26205:26508" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="26233:26499" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="26579:26989" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="26623:26654" ph="..." />
+            <marker date="1500376655000" expanded="true" signature="26688:26712" ph="..." />
+            <marker date="1500376655000" expanded="true" signature="27041:28343" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="27135:27403" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="27439:27518" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="27552:27926" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="27692:27915" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="27733:27903" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="27766:27872" ph="{&quot;rel&quot;: 'stylesheet'...}" />
+            <marker date="1500376655000" expanded="true" signature="27979:28328" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="28042:28319" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="28204:28309" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="28397:28870" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="28575:28821" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="28928:29267" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29151:29179" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29185:29261" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29317:29633" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29346:29380" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29403:29568" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29427:29471" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29477:29560" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29587:29627" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29685:30060" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29711:29739" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29845:29891" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="29929:29983" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="30129:30227" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="30182:30223" ph="{...}" />
+            <marker date="1500376655000" expanded="true" signature="30239:30261" ph="{&quot;Thebe&quot;: Thebe...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/main-built.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="165" column="22987" lean-forward="false" selection-start-line="165" selection-start-column="22987" selection-end-line="165" selection-end-column="22987" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/thebe/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="239" column="20" lean-forward="false" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="20" />
+          <folding>
+            <marker date="1500367427000" expanded="true" signature="718:784" ph="{...}" />
+            <marker date="1500367427000" expanded="true" signature="5314:5470" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/thebe/site.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/thebe/default_css.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1625" lean-forward="false" selection-start-line="4" selection-start-column="1625" selection-end-line="4" selection-end-column="1625" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/notebook/js/notebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="2328" column="27" lean-forward="false" selection-start-line="2328" selection-start-column="23" selection-end-line="2328" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/main.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="409" column="113" lean-forward="false" selection-start-line="409" selection-start-column="113" selection-end-line="409" selection-end-column="113" />
+          <folding>
+            <marker date="1500376645000" expanded="true" signature="10661:10678" ph="..." />
+            <marker date="1500376645000" expanded="true" signature="10661:10696" ph="..." />
+            <marker date="1500376645000" expanded="true" signature="16376:16394" ph="..." />
+            <marker date="1500376645000" expanded="true" signature="24830:24861" ph="..." />
+            <marker date="1500376645000" expanded="true" signature="24895:24919" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
